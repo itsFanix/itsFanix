@@ -57,9 +57,9 @@
 
 
 
----
+<!-- ---
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsFanix&theme=nightowl&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=itsFanix&theme=nightowl&showicons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=itsFanix&theme=nightowl&showicons=true) -->
