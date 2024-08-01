@@ -11,8 +11,8 @@
 
 - 💻 I'm interested in internet of things and  developpment.
 
-- 📫 **How to reach me** **fannynyatsikor@gmail.com**
-- **my Discord** : Fanix#8556
+<!-- - 📫 **How to reach me** **fannynyatsikor@gmail.com**>
+<!-- - **my Discord** : Fanix#8556>
 - **Let's connect**
 <!-- <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/germainenyatsikor">
